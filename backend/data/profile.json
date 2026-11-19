@@ -1,0 +1,13 @@
+{
+  "language": "English",
+  "locale": "en-IN",
+  "profile": {
+    "age": 30,
+    "gender": "male",
+    "occupation": "farmer",
+    "district": "amalapuram",
+    "annual_income": 100000,
+    "land_acres": null,
+    "caste_category": null
+  }
+}

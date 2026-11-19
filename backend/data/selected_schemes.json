@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "age": 30,
+    "gender": "male",
+    "state": "Andhra Pradesh",
+    "district": "amalapuram",
+    "occupation": "farmer",
+    "annual_income": 100000
+  },
+  "language": "English",
+  "locale": "en-IN",
+  "selected_schemes": [
+    "Annadata Sukhibhava AP"
+  ]
+}
